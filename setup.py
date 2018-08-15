@@ -26,7 +26,7 @@ setup(
 	'clint',
 	'argparse',
     'georaptor>=2.0.3',
-    'Geohash'
+    'python-geohash'
   ],
   entry_points='''
 	[console_scripts]
